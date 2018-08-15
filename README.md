@@ -1,4 +1,4 @@
-# vue-playlist
+# vue-meituan
 
 > A Vue.js project
 
